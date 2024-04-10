@@ -4,6 +4,7 @@ class Program
 {
    static void Main(string[] args)
    {
+      //following steps 
       // Step 1: Declaration and instantiation of the first two arrays
       int[] firstArray = { 1, 2, 3 }; // Directly initializing the array with values
       int[] secondArray = { 4, 5, 6 }; // Same here for the second array
