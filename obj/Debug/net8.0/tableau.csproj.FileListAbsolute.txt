@@ -1,0 +1,14 @@
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\bin\Debug\net8.0\tableau.exe
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\bin\Debug\net8.0\tableau.deps.json
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\bin\Debug\net8.0\tableau.runtimeconfig.json
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\bin\Debug\net8.0\tableau.dll
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\bin\Debug\net8.0\tableau.pdb
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\obj\Debug\net8.0\tableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\obj\Debug\net8.0\tableau.AssemblyInfoInputs.cache
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\obj\Debug\net8.0\tableau.AssemblyInfo.cs
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\obj\Debug\net8.0\tableau.csproj.CoreCompileInputs.cache
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\obj\Debug\net8.0\tableau.dll
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\obj\Debug\net8.0\refint\tableau.dll
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\obj\Debug\net8.0\tableau.pdb
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\obj\Debug\net8.0\tableau.genruntimeconfig.cache
+C:\Users\amsde\Desktop\tabb\tabsol\tableau\obj\Debug\net8.0\ref\tableau.dll
